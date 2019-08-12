@@ -4,7 +4,8 @@ Mobile application developed in React Native.
 
 * React Native
 * Expo
-* Developed on snack.expo.io
+* Developed on snack.expo.io <br/>
+  - [Link to app on snack](https://snack.expo.io/@dacili/bmi)
 * Demo video available
 
 #### What does it do?
