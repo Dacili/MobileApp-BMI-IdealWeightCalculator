@@ -9,7 +9,7 @@ Mobile application developed in React Native.
 * Demo video available
 
 #### What does it do?
-* Depends on height, weight and gender of the person, the application calculate and returns the values for BMI and ideal weight.
+* Depends on height, weight, and gender of the person, the application calculates and returns the values for BMI and ideal weight.
 
 
 ![alt text](https://github.com/Dacili/MobileApp-BMI-IdealWeightCalculator/blob/master/bmiGIF.gif)
